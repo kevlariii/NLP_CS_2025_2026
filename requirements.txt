@@ -1,0 +1,12 @@
+pandas
+datasets
+numpy
+ipykernel
+ipywidgets
+tqdm
+scikit-learn
+matplotlib
+seaborn
+ydata-profiling
+termcolor
+nltk
